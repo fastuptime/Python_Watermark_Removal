@@ -8,7 +8,7 @@ Python Watermark Removal
 
 ## ⛳Tech Stack ⛳
 
-**🗄️Python: ** cv2
+** 🗄️Python: ** cv2
 ---
 - ✨ [For Support](https://github.com/sponsors/fastuptime) <br>
 - 💕 [Discord](https://fastuptime.com/discord)<br>
